@@ -6,11 +6,11 @@
    RCA_CIE_2_Acitvity
     │
     ├── Unit 1
-         ├── RCA_Act_1.ipynb
-         │
-         └── README.md    
+    │    ├── RCA_Act_1.ipynb
+    │    │
+    │    └── README.md    
     │
-    └── Unit 2
+    ├── Unit 2
          ├── RCA_Act_2.ipynb
          │
          └── README.md
