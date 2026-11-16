@@ -156,7 +156,7 @@ The notebook uses the following Python libraries:
 Jupyter Notebook or JupyterLab is required to run the notebook.
 
 ## Acknowledgement   
-This project was created as a part of CIE 2 Activity of Unit 1 for the subject "Regression and Classfication Algorithms". 
+This project was created as a part of CIE 2 Activity of Unit 1 for the subject "Regression and Classfication Algorithms".   
 **Course Faculty :** Mr. Deepanshu Sagar  
 **Faculty Git hub:** [Mr. Deepanshu's git hub](https://github.com/complexiota)  
 
