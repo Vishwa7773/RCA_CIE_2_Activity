@@ -8,7 +8,7 @@
     ├── Unit 1
     │    ├── RCA_Act_1.ipynb
     │    │
-    │    ├──RCA_1 manual calculation.pdf
+    │    ├── RCA_1 manual calculation.pdf
     │    │
     │    └── README.md    
     │
